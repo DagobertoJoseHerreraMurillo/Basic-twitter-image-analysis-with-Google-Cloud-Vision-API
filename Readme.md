@@ -47,6 +47,3 @@ NY times:
 
 
 
-__Q63__: What problems have you found developing this section? How did you solve them? The principal problem was to obtain images from some source. Because Instagram does not allow this anymore, we had to use twitter as the source. Even the third parties API for instagram does not work.
-
-__Q64__: How long have you been working on this session (including the optional part)? What have been the main difficulties you have faced and how have you solved them? The amount of time, more or less, just for the optional part was about 4 hours. Compared with previous labs, this does not have so much problems. One thing that made our live much easier was to change the library for the plots. This new one is more easy to use and more powerful. 
